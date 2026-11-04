@@ -1,1 +1,0 @@
-# netkestirme2
